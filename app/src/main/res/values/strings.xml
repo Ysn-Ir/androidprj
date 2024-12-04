@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YSN</string>
+    <string name="login">login</string>
+    <string name="btnstate">valider</string>
+    <string name="hint">hello there mr </string>
+    <string name="versionname">ysnapp </string>
+
+</resources>
